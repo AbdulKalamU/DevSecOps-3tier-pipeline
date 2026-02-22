@@ -1176,11 +1176,6 @@ Press enter or click to view image in full size
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*k5maAvW3TQPcx0jRYwYcnA.png)
 
-## **🔗 GitHub Repository**
-
-🗂️ You can find the **complete source code, Jenkinsfile, Docker Compose setup, and scripts** used in this article right here:
-
-👉 [**GitHub — Wanderlust 3-Tier DevSecOps CI/CD Project**](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-39)
 
 ## **✅ Conclusion: Your DevSecOps Lab Is Now Live 🚀**
 
@@ -1209,20 +1204,3 @@ And the best part? You did it all with **zero cloud cost** — 100% open-source,
 * 📦 Explore Kubernetes and Helm for container orchestration
 
 This setup isn’t just a tutorial — it’s a **launchpad** into real-world DevOps workflows. Now you’re equipped to experiment, expand, and evolve your own **secure software delivery system** 🔐💻
-
-## 🛠️ **Author & Community**
-
-This project is crafted by [**Harshhaa**](https://github.com/NotHarshhaa) 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.
-
----
-
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)
-
----
-
-### 📢 **Stay Connected**
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
